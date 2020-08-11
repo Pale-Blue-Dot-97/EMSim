@@ -1,0 +1,29 @@
+# EMSIM OUTPUT FILE 
+# PARAMETERS OF SIMULATION RUN 
+# ---------------------------- 
+# Mode               : 8 
+# Magnetic field?      true
+# Failing field?       true
+# Point charge?        false
+# Electric field?      true
+# Magnetic strength  : 1.0E-7T 
+# Electric strength  : 1.0E-7NC^-1 
+# Phase              : 1.5707963267948966
+# Algorithm          : 3
+# Time-step          : 1.0E-5s 
+# Number of Turns    : 100.0
+# Number of particles: 100
+# Spread in x        : 1.0E-9m 
+# Spread in y        : 0.0m 
+# Spread in z        : 0.0m 
+# ----------------------------- 
+x_spread 	 delta_KE 
+1.0E-9	8.644971651115964E-21
+1.0E-8	8.636622558054759E-21
+1.0000000000000001E-7	8.63471168529111E-21
+1.0000000000000002E-6	8.64321440905959E-21
+1.0E-5	8.627715195572457E-21
+1.0E-4	8.632481356957545E-21
+0.001	8.628070492706102E-21
+0.01	8.635661294807493E-21
+0.1	8.627998987920012E-21

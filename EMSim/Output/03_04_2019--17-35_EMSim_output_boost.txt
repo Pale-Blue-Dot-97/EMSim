@@ -1,0 +1,32 @@
+# EMSIM OUTPUT FILE 
+# PARAMETERS OF SIMULATION RUN 
+# ---------------------------- 
+# Mode               : 1 
+# Magnetic field?      true
+# Failing field?       false
+# Point charge?        false
+# Electric field?      true
+# Magnetic strength  : 1.0E-7T 
+# Electric strength  : 1.0E-7NC^-1 
+# Phase              : 1.5707963267948966
+# Algorithm          : Runge-Kutta-Fehlbergy
+# Time-step          : 1.0E-4s 
+# Number of Turns    : 10.0
+# Number of particles: 1
+# Spread in x        : 0.0m 
+# Spread in y        : 0.0m 
+# Spread in z        : 0.0m 
+# Intial average v   : 0.1ms^-1 
+# Intial v_sigma     : 0.0ms^-1 
+# ----------------------------- 
+Turn Num 	 deltaV 
+1.0	0.12359458948988827
+2.0	0.07639763408159747
+3.0	0.060560887000355834
+4.0	0.051747548817497935
+5.0	0.045950465740372703
+6.0	0.04174702733868202
+7.0	0.038505052382459215
+8.0	0.035946473953541225
+9.0	0.0338111370248263
+10.0	0.03203133645018241

@@ -1,0 +1,35 @@
+# EMSIM OUTPUT FILE 
+# PARAMETERS OF SIMULATION RUN 
+# ---------------------------- 
+# Time               : 06_04_2019--at--13-12
+# ---------------------------- 
+# Mode               : 1 
+# Magnetic field?    : false
+# Failing field?     : false
+# Point charge?      : false
+# Cyclotron Set-up?  : true
+# Magnetic strength  : 1.0E-7T 
+# Electric strength  : 1.0E-7NC^-1 
+# Phase              : 1.5707963267948966
+# Algorithm          : Runge-Kutta-Fehlbergy
+# Time-step          : 1.0E-4s 
+# Tolerence          : 0.01% 
+# Number of Turns    : 10.0
+# Number of particles: 1
+# Spread in x        : 0.0m 
+# Spread in y        : 0.0m 
+# Spread in z        : 0.0m 
+# Intial average v   : 0.1ms^-1 
+# Intial v_sigma     : 0.0ms^-1 
+# ----------------------------- 
+x 	 y 	 z 
+-0.0120138201308275	1.5645377394152046E-4	0.0
+-0.02035968170707713	2.649239137343465E-4	0.0
+-0.026693917259328424	4.379802922619975E-5	0.0
+-0.03219862699041544	1.1516030409805067E-4	0.0
+-0.03669619254297026	2.0250811742114616E-4	0.0
+-0.041193562117969665	2.98393659294264E-4	0.0
+-0.04486256509363898	4.0174203056000056E-4	0.0
+-0.04853134014750446	5.116818700605313E-4	0.0
+-0.05119616222842963	6.237212764796202E-5	0.0
+-0.0548648655633656	1.6496881159533698E-4	0.0

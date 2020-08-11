@@ -1,0 +1,32 @@
+# EMSIM OUTPUT FILE 
+# PARAMETERS OF SIMULATION RUN 
+# ---------------------------- 
+# Mode               : 1 
+# Magnetic field?      true
+# Failing field?       false
+# Point charge?        false
+# Electric field?      true
+# Magnetic strength  : 1.0E-7T 
+# Electric strength  : 1.0E-7NC^-1 
+# Phase              : 1.5707963267948966
+# Algorithm          : Heun's
+# Time-step          : 1.0E-5s 
+# Number of Turns    : 10.0
+# Number of particles: 1
+# Spread in x        : 0.0m 
+# Spread in y        : 0.0m 
+# Spread in z        : 0.0m 
+# Intial average v   : 0.1ms^-1 
+# Intial v_sigma     : 0.0ms^-1 
+# ----------------------------- 
+x 	 y 	 z 
+-0.012236078912049786	4.600725826824336E-7	0.0
+-0.020155092086921886	1.5055797417758273E-6	0.0
+-0.026474583210723907	1.4230613623890327E-6	0.0
+-0.031874258373458836	2.6773647215249396E-6	0.0
+-0.03665402687052341	3.363706035270468E-8	0.0
+-0.04099384991780445	2.135529243687614E-6	0.0
+-0.045013706379287616	4.770032895030177E-6	0.0
+-0.048773586936329674	2.0411877100094755E-6	0.0
+-0.0522934856588804	5.149196300191647E-6	0.0
+-0.05563339776443732	2.1873283578424688E-6	0.0
